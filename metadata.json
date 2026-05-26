@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A comprehensive Student Management System with attendance tracking, interactive charts, and secure admin operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
